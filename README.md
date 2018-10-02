@@ -1,4 +1,4 @@
-# digital-elite
+# Digital Elite
 
 Digital Elite is a digital agency that focuses on businesses that are not yet on the internet get an online presence. It can be intimidating for an old-school business to take its first step into the world of the internet, that is why Digital Elite fully automates any kind of digital presence the company might need. They will host, rank and handle all of the client's internet needs.
 
